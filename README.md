@@ -72,6 +72,6 @@ https://discord.gg/fSzsGus
 
 https://kavinjindal17.wordpress.com/
 
-# MADE BY KAVIN JINDAL
+# MADE BY KAVIN JINDAL :metal:
 
 
