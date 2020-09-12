@@ -3,6 +3,11 @@
 # Pnut-Discord-Bot (Beta)
 Pnut Discord bot is a Bot developed for  technology and programming. It shows you information and resources to learn development and programming languages. 
 
+-------------------------------
+# Add Pnut to your server:
+
+https://discord.com/api/oauth2/authorize?client_id=736617759403802674&permissions=0&scope=bot
+
 By using specific commands in a Discord Server, you can get the information on programming languages you want to learn. 
 **Here are its specific features**
 **It will show the following material for a programming language you want learn**
@@ -32,3 +37,41 @@ To start the bot write **.pnut**
 
 **To get the commands list type *.cmd**
 * You will get a whole list of commands available
+
+![3](https://user-images.githubusercontent.com/68228966/92989899-49c47c80-f4f5-11ea-8740-9aa3621c4c51.PNG)
+
+**Note : .ethical command is under development is not functional currently**
+
+ Type .python
+
+You will see a message like this
+
+![4](https://user-images.githubusercontent.com/68228966/92989950-a6279c00-f4f5-11ea-9bbd-149d574cb007.PNG)
+
+ Now use the commands to get the resources.
+
+**NOTE: MORE COMMANDS ARE BEING ADDED**
+
+**I am providing the source code for the bot, I suggest you DON'T COPY IT, IF YOU WANT TO MAKE BOTS GO LEARN AND MAKE YOUR OWN
+
+You can contribute to the project and email me if you want to be a part of this project
+
+# Reposrt Issues, Queries and Suggestions
+
+**Email :** kavinsjindal@gmail.com
+
+Or report your issues here:
+
+https://github.com/kavinjindal/Pnut-Discord-Bot/issues
+
+# Join Discord Server:
+
+https://discord.gg/fSzsGus
+
+# Website : 
+
+https://kavinjindal17.wordpress.com/
+
+# MADE BY KAVIN JINDAL
+
+
