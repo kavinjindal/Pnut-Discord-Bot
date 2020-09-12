@@ -52,7 +52,7 @@ You will see a message like this
 
 **NOTE: MORE COMMANDS ARE BEING ADDED**
 
-**I am providing the source code for the bot, I suggest you DON'T COPY IT, IF YOU WANT TO MAKE BOTS GO LEARN AND MAKE YOUR OWN
+**I am providing the source code for the bot, I suggest you DON'T COPY IT, IF YOU WANT TO MAKE BOTS GO LEARN AND MAKE YOUR OWN**
 
 You can contribute to the project and email me if you want to be a part of this project
 
