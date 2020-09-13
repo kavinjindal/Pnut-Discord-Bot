@@ -309,7 +309,7 @@ async def free_hack(ctx):
 
 #-------------Normal command-----------------------------
 
-client.run('NzM2NjE3NzU5NDAzODAyNjc0.Xxxavw.FdHIu_Gbrd1THLCU85O6bS92-qo')
+client.run('token)
 
 
 
