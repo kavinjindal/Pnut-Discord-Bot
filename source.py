@@ -72,16 +72,22 @@ async def pnut(ctx):
 
         
         title = 'Pnut Bot at your service',
-        colour = discord.Colour.orange())
+        colour = discord.Colour.green())
 
         
 
-    embed.set_author(name='Pnut Bot Help ')
+    embed.set_author(name='Pnut Bot Help ', url='https://github.com/kavinjindal/Pnut-Discord-Bot')
     embed.set_image(url='https://i.imgur.com/u716EqD.jpg')
     embed.add_field(name = 'About Pnut :robot:', 
         value='Pnut is a discord bot created by Kavin Jindal. This bot has been programmed in Python.'
               '\n' "It is made for a purpose of teaching and helping people in technology and development :desktop:", 
               inline=True)
+    embed.add_field(name = '**Info:**'
+    , value= '**VERSION 1.1.1 TO COME OUT SOON**'
+          '**Version:** 1.1.1'
+    '\n'  '**Developed by  : ** Kavin Jindal'
+    '\n'  '**Programmed in : **' 'Python'
+    , inline=False )
     embed.add_field(name = 'Functions' , 
         value='Pnut provides information and resources to help people learn programming languages. '
         ,inline=False)
